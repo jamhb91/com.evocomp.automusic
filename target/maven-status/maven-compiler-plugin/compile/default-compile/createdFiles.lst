@@ -1,0 +1,8 @@
+com\evocomp\genetics\automusic\Scales.class
+com\evocomp\genetics\automusic\Composition.class
+com\evocomp\genetics\automusic\MusicChromosome.class
+com\evocomp\genetics\automusic\Scales$PENTATONIC_C.class
+com\evocomp\genetics\automusic\Sound.class
+com\evocomp\genetics\automusic\InstrumentCollection.class
+com\evocomp\genetics\automusic\Scales$SCALE_FROM_4_TO_6.class
+com\evocomp\genetics\automusic\Note.class
